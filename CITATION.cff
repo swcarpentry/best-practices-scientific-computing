@@ -39,7 +39,7 @@ authors:
   orcid: ""
 - family-names: "Wilson"
   given-names: "Paul"
-  orcid: ""
+  orcid: "https://orcid.org/0000-0002-8555-4410"
 title: "Best Practices for Scientific Computing"
 preferred-citation:
   type: article
