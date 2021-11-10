@@ -1,6 +1,6 @@
 LATEX=pdflatex
 BIBTEX=bibtex
-STEM=best-practices-scientific-computing-2012
+STEM=best-practices
 
 all : ${STEM}.pdf
 
